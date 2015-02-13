@@ -11,3 +11,6 @@ Ini adalah game untuk menguji kecepatan coding anda!!
 2. Javascript please, don't use coffeescript
 3. Accounts
 4. Iron Router
+
+## Future Feature
+1. Duel Mode

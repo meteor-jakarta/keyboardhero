@@ -12,5 +12,8 @@ Ini adalah game untuk menguji kecepatan coding anda!!
 3. Accounts
 4. Iron Router
 
+## Wireframe
+![keyboardhero](keyboardhero.png)
+
 ## Future Feature
 1. Duel Mode

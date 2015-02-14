@@ -7,7 +7,7 @@ Ini adalah game untuk menguji kecepatan coding anda!!
 3. Top score
 
 ## Packages
-1. Twitter Bootstrap
+1. [Bootstrap Material Design](https://atmospherejs.com/fezvrasta/bootstrap-material-design)
 2. Javascript please, don't use coffeescript
 3. Accounts
 4. Iron Router

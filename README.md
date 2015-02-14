@@ -12,6 +12,9 @@ Ini adalah game untuk menguji kecepatan coding anda!!
 3. Accounts
 4. Iron Router
 
+## Folder Structure
+Later
+
 ## Wireframe
 ![keyboardhero](keyboardhero.png)
 

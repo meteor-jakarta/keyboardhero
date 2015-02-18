@@ -20,7 +20,15 @@ Ini adalah game untuk menguji kecepatan coding anda!!
 Later
 
 ## Wireframe
-![keyboardhero](keyboardhero.png)
+![keyboardhero](keyboardhero01.png)
+
+## Wireframe mock-up
+![keyboardhero](images/keyboardhero-01.jpg)
+![keyboardhero](images/keyboardhero-02.jpg)
+![keyboardhero](images/keyboardhero-03.jpg)
+![keyboardhero](images/keyboardhero-04.jpg)
+![keyboardhero](images/keyboardhero-05.jpg)
+![keyboardhero](images/keyboardhero-06.jpg)
 
 ## Future Feature
 1. Duel Mode

@@ -13,6 +13,3 @@ For more info please visit [Master](https://github.com/meteor-jakarta/keyboardhe
 ![keyboardhero](images/keyboardhero-04.jpg)
 ![keyboardhero](images/keyboardhero-05.jpg)
 ![keyboardhero](images/keyboardhero-06.jpg)
-
-## Future Feature
-1. Duel Mode

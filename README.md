@@ -20,7 +20,7 @@ Ini adalah game untuk menguji kecepatan coding anda!!
 Later
 
 ## Wireframe
-![keyboardhero](keyboardhero01.png)
+![keyboardhero](keyboardhero.png)
 
 ## Wireframe mock-up
 ![keyboardhero](images/keyboardhero-01.jpg)

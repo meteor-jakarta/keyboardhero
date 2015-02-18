@@ -3,34 +3,29 @@
 </head>
 
 <body>
-  <nav class="navbar navbar-inverse navbar-fixed-top">
-    <div class="container">
-      <div class="navbar-header">
-        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
-          <span class="sr-only">Toggle navigation</span>
-          <span class="icon-bar"></span>
-          <span class="icon-bar"></span>
-          <span class="icon-bar"></span>
-        </button>
-        <a class="navbar-brand" href="/">Keyboard Hero</a>
-      </div>
-      <div id="navbar" class="collapse navbar-collapse">
-        <ul class="nav navbar-nav navbar-right">
-          <li><a href="#">Login</a></li>
-        </ul>
-      </div><!--/.nav-collapse -->
-    </div>
+  <nav class="head-bar">
+    <!--<div class="nav-butt">
+      <button class="animate-trigger">MENU</button>
+      <div class="animate-target"></div>
+    </div>-->
+    <div class="time-block">{{> timeBlock}}</div>
   </nav>
+  <div class="game-cont">
+    <div class="code-block">{{> codeBlock}}</div>
+    <div class="race-block">{{> raceBlock}}</div>
+  </div>
+<!--<script>
+$(function() {
+  var animationClasses = 'animated alternate iteration zoomOut';
+  var animationEnd = 'webkitAnimationEnd mozAnimationEnd MSAnimationEnd oanimationend animationend';
 
-  <div class="container">
+  $('.animate-trigger').on('click',function() {
+    $('.animate-target').addClass(animationClasses).one(animationEnd,function() {
+      $(this).removeClass(animationClasses);
+    });
+  });
+});
+</script>-->
 
-    <div class="starter-template">
-      {{> timeBlock}}
-      {{> codeBlock}}
-      {{> raceBlock}}
-
-    </div>
-
-  </div><!-- /.container -->
 
 </body>

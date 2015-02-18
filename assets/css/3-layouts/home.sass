@@ -1,0 +1,42 @@
+body
+	background-color: #fff
+
+.head-bar
+	height: 100px
+.nav-butt
+	padding: 20px
+	float: left
+	position: absolute
+	z-index: 2
+.time-block
+	float: right
+	padding: 30px 100px auto auto
+
+.game-cont
+	+outer-container(98%)
+
+.code-block
+	textarea
+		resize: none
+		min-height: 60rem
+		max-height: 200rem
+		font-size: 2rem
+		box-shadow: 3px 3px 6px darken($base-background-color, 10%)
+	+span-columns(6)
+	float: left
+	
+.race-block
+	textarea
+		resize: none
+		min-height: 60rem
+		max-height: 200rem
+		background-color: #3f3f3f
+		color: white
+		font-size: 2rem
+		box-shadow: -3px 3px 6px darken($base-background-color, 10%)
+		+placeholder
+			color: #fff
+	+span-columns(6)
+	float: right
+	height: 60rem
+	
